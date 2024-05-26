@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **LuisEn2005/LuisEn2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -11,4 +10,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: i dunno, like i don't even reach myself, but yeah i guess my email is public, if you need a friend i'm open.
 - 😄 Pronouns: Pe/Causa - Perú ❤
 - ⚡ Fun fact: I use Linux and Windows at the same time literally... (VirtualBox)
+<!--
 -->
